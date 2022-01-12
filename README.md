@@ -1,4 +1,4 @@
-## Yelp Restaurant Analytics
+# Yelp Restaurant Analytics
 Restaurant Yelp Analytics using MySQL, Knime, and MongoDB
 
 ## Knime Workflow and MongoDB
