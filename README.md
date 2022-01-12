@@ -1,7 +1,7 @@
 ## Yelp Restaurant Analytics
 Restaurant Yelp Analytics using MySQL, Knime, and MongoDB
 
-##Knime/MongoDB
+## Knime/MongoDB
 * Connected to MongoDB database using MongoDB Connector in Knime
 * Converted both JSON files to tables and joined together
 * Filtered rows by top 15 pizza restaurants in Boston and created a map view
